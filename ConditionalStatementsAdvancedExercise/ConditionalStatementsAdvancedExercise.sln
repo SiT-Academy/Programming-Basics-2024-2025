@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.Cinema", "P01.Cinema\P01.Cinema.csproj", "{C9E5BC47-A663-495F-BEE8-DFA9C366E79B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Cinema", "P01.Cinema\P01.Cinema.csproj", "{C9E5BC47-A663-495F-BEE8-DFA9C366E79B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.Journey", "P05.Journey\P05.Journey.csproj", "{CA4FABEA-EF60-4200-8BF0-58569216223A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.Journey", "P05.Journey\P05.Journey.csproj", "{CA4FABEA-EF60-4200-8BF0-58569216223A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.OnTimeForTheExam", "P08.OnTimeForTheExam\P08.OnTimeForTheExam.csproj", "{6951EFA3-C3ED-4671-B32B-ADA7105272AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.SummerOutfit", "P02.SummerOutfit\P02.SummerOutfit.csproj", "{371F66BA-9747-4EFF-9639-F35C78B26B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.SummerOutfit", "P02.SummerOutfit\P02.SummerOutfit.csproj", "{371F66BA-9747-4EFF-9639-F35C78B26B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.OperationsBetweenNumbers", "P06.OperationsBetweenNumbers\P06.OperationsBetweenNumbers.csproj", "{9E03BB78-D35A-487F-8FB4-33A32651A93E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.HotelRoom", "P07.HotelRoom\P07.HotelRoom.csproj", "{A00111D7-96FB-4170-B580-CF929B4D83AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{371F66BA-9747-4EFF-9639-F35C78B26B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{371F66BA-9747-4EFF-9639-F35C78B26B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{371F66BA-9747-4EFF-9639-F35C78B26B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E03BB78-D35A-487F-8FB4-33A32651A93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E03BB78-D35A-487F-8FB4-33A32651A93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E03BB78-D35A-487F-8FB4-33A32651A93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E03BB78-D35A-487F-8FB4-33A32651A93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00111D7-96FB-4170-B580-CF929B4D83AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00111D7-96FB-4170-B580-CF929B4D83AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00111D7-96FB-4170-B580-CF929B4D83AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00111D7-96FB-4170-B580-CF929B4D83AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
