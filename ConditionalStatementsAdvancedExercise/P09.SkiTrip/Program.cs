@@ -33,7 +33,7 @@
                 {
                     discount = 0.3m;
                 }
-                else if (nightsToStay <= 15)
+                else if (nightsToStay < 15)
                 {
                     discount = 0.35m;
                 }
@@ -49,7 +49,7 @@
                 {
                     discount = 0.1m;
                 }
-                else if (nightsToStay <= 15)
+                else if (nightsToStay < 15)
                 {
                     discount = 0.15m;
                 }
