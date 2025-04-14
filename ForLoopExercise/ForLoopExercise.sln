@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Histogram", "P03.Histogram\P03.Histogram.csproj", "{EA0AD6AD-5B47-432D-9CC0-4450CEF3C457}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Oscars", "06.Oscars\06.Oscars.csproj", "{65848906-5B5E-4A0B-9137-0DEC67C6B559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.CleverLily", "P04.CleverLily\P04.CleverLily.csproj", "{C91F035F-76DC-49D2-B34B-7206A4FD2D36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{65848906-5B5E-4A0B-9137-0DEC67C6B559}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65848906-5B5E-4A0B-9137-0DEC67C6B559}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65848906-5B5E-4A0B-9137-0DEC67C6B559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91F035F-76DC-49D2-B34B-7206A4FD2D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91F035F-76DC-49D2-B34B-7206A4FD2D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91F035F-76DC-49D2-B34B-7206A4FD2D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91F035F-76DC-49D2-B34B-7206A4FD2D36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
